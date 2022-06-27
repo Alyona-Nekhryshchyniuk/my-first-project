@@ -1,2 +1,2 @@
 # my-first-project
-Here can be description for my-first-project with git hub
+(https://alyona-nekhryshchyniuk.github.io/my-first-project/)
